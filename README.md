@@ -1,4 +1,4 @@
-# Repositorio INTRODUCCION A LA INTELINGENCIA ARTIFICIAL
+Repositorio INTRODUCCION A LA INTELINGENCIA ARTIFICIAL
 ***
 Estudiantes:
 - Juan Camilo Carvajal Sierra - 1010124738 - Bioingeniería
