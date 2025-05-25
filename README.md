@@ -9,4 +9,4 @@
 - Mauro Andres Alegria Cano - 1002972153 - Bioingeniería
 
 Enlace video Proyecto Segunda Entrega:
-- 
+- https://youtu.be/_bUAjwkbIyw?si=6tyJhCYeaKEtdZJS
