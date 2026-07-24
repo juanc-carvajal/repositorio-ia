@@ -4,9 +4,9 @@
 
 ## Estudiantes:
 
-- Juan Camilo Carvajal Sierra - 1010124738 - Bioingeniería
-- Valeria Giraldo Agudelo - 1007577551 - Bioingeniería
-- Mauro Andres Alegria Cano - 1002972153 - Bioingeniería
+- Juan Camilo Carvajal Sierra - Bioingeniería
+- Valeria Giraldo Agudelo - Bioingeniería
+- Mauro Andres Alegria Cano - Bioingeniería
 
 Enlace video Proyecto Segunda Entrega:
 - https://youtu.be/_bUAjwkbIyw?si=6tyJhCYeaKEtdZJS
